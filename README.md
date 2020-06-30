@@ -16,3 +16,9 @@
 
 ## 3. 对称加密和解密算法
 
+[Symmetrical-encryption](https://blog.heyliubo.top/node-encryption-practice/Symmetrical-encryption.js)
+
+## 4. 非对称加密算法
+
+[Asymmetric-encryption](https://blog.heyliubo.top/node-encryption-practice/Asymmetric-encryption.js)
+
