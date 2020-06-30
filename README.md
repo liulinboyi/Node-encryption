@@ -4,5 +4,13 @@
 
 ## 1. Hash算法
 
+[hash](https://blog.heyliubo.top/Node-encryption/hash.js)
 
+[hash-text](https://blog.heyliubo.top/Node-encryption/hash-text.js)
+
+[hash-stream](https://blog.heyliubo.top/Node-encryption/hash-stream.js)
+
+## 2. hmac算法
+
+[hmac](https://blog.heyliubo.top/Node-encryption/hmac.js)
 
