@@ -8,7 +8,7 @@ async function input() {
   });
   let answer = await new Promise((resolve => {
     rl.question('请输入要加密的文本: ', function (answer) {
-      console.log('你输入的是 %s', answer);
+      // console.log('你输入的是 %s', answer);
       resolve(answer);
       // 不加close，则不会结束
     });

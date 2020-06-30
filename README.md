@@ -22,3 +22,6 @@
 
 [Asymmetric-encryption](https://blog.heyliubo.top/node-encryption-practice/Asymmetric-encryption.js)
 
+## 5. 签名
+
+[sign](https://blog.heyliubo.top/node-encryption-practice/sign.js)
